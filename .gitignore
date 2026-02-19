@@ -1,0 +1,10 @@
+# Mengabaikan folder environment 
+.venv/
+
+# Mengabaikan file data 
+*.csv
+*.json
+*.joblib
+
+# Mengabaikan folder cache python
+__pycache__/
