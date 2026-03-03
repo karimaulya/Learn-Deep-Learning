@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+google-play-scraper
+PySastrawi
+tqdm
+tensorflow
+imbalanced-learn
